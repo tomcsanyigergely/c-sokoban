@@ -1,0 +1,5 @@
+4
+level_1 19
+level_2 12
+level_3 150
+testpalya 1
